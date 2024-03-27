@@ -28,3 +28,10 @@ npm i jest --save-dev
 - [ ] init git
 - [ ] create .gitignore
 - add line node_modules to .gitignore
+- remember cp file content .env to .env.example and remove values.
+
+
+- [ ] init amqp
+```sh
+touch src/dbs/init.rabbit.js
+```
